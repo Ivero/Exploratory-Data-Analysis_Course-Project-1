@@ -1,5 +1,4 @@
 ##Exploratory Data Analysis - Course Project 1
-==========================================
 
 ####R Code and output graphs for Course Project 1
 
